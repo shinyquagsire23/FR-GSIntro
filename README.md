@@ -1,9 +1,9 @@
-FR-IntroTemplate
+FR-GSIntro
 ================
 ![Custom Intro](http://i569.photobucket.com/albums/ss135/mtinc2/PFR_zps53387555.png)
 
 
-This is a template and example for inserting a custom intro into the FireRed engine released under GPLv3. Basically that means that if you modify this code and release it as part of a product you are required to open source it. Don't worry though, it's fun!
+This is a WIP project aimed to recreate the Gold and Silver intro onto the FireRed engine and released under GPLv3.
 
 
 To compile, first adjust the compile.sh to your appropriate paths and OS (Sorry Windows users, I use Linux). 
